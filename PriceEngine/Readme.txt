@@ -7,7 +7,7 @@ user-input.json : To give the user input.
 This POC will serve as price engine which will calculate the price of the cycle according to the configuration provided.
 
 Note:
-Part names were hard coded as : Part 1, Part 2, Part 3.
+High level components names were hard coded as : FRAME,HANDLE_BAR_WITH_BRAKES,SEATING,WHEELS,CHAIN_ASSEMBLY
 
 Price changing with respect to time is considered as a monthly change, which can be extended to a date range further.
 
